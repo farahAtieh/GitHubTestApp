@@ -15,4 +15,6 @@ public class MainActivity extends AppCompatActivity {
     private void testApp(){
         int i = 10 + 35;
     }
+    
+    private void addChangeToMain(){}
 }
