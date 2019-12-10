@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         int i = 10 + 35;
     }
     
-    private void addChangeToMain(){}
+    private void addChangeToMain(){
+        String test = "test";
+    }
 }
