@@ -22,4 +22,16 @@ public class MainActivity extends AppCompatActivity {
 
         boolean isValid = true;
     }
+
+    private void doSomeWork(){
+        int i = 10;
+        int ii = 50;
+
+        String isString = Integer.toString(i);
+
+        if( i <= 100){
+            isString = Integer.toString(ii + 9);
+        }
+    }
+
 }
