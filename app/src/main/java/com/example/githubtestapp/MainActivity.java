@@ -14,9 +14,12 @@ public class MainActivity extends AppCompatActivity {
 
     private int testApp(){
         return 10 + 35;
+
     }
     
     private void addChangeToMain(){
         String test = "test";
+
+        boolean isValid = true;
     }
 }
