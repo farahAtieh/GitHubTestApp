@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private void doSomeWork(){
         int i = 10;
         int ii = 50;
+        int iiii;
 
         String isString = Integer.toString(i);
 
