@@ -12,8 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void testApp(){
-        int i = 10 + 35;
+    private int testApp(){
+        return 10 + 35;
     }
     
     private void addChangeToMain(){
